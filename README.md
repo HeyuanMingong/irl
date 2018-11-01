@@ -15,9 +15,11 @@ This code requires the following:
 ### Usage 
 * For example, to run the code in the simple maze domain with epsilon-greedy strategy, just run the bash script `./simple_maze_epsilon.sh`, also see the usage instructions in the script and `main.py`
 * When getting the results in the folder `output/*`, plot the results using `data_process.py`. For example, the results for `./simple_maze_epsilon.sh` is as follow:
-![experimental results for simple maze with epsilon-greedy strategy](https://github.com/HeyuanMingong/irl/blob/master/exp/simple_maze_epsilon.png)
+![experimental results for simple maze with epsilon-greedy strategy](https://github.com/HeyuanMingong/irl/blob/master/exp/maze_simple_epsilon.png)
 
 Also, the results for other bash scripts are shown in `exp/*`
 
 ### Contact 
+For safety reasons, the code is coming soon.
+
 To ask questions or report issues, please open an issue on the [issues tracker](https://github.com/HeyuanMingong/irl/issues), or email to njuwangzhi@gmail.com.
