@@ -20,6 +20,4 @@ This code requires the following:
 Also, the results for other bash scripts are shown in `exp/*`
 
 ### Contact 
-For safety reasons, the code is coming soon.
-
 To ask questions or report issues, please open an issue on the [issues tracker](https://github.com/HeyuanMingong/irl/issues), or email to njuwangzhi@gmail.com.
