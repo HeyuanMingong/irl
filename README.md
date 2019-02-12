@@ -1,7 +1,7 @@
 # Incremental reinforcement learning with prioritized sweeping for dynamic environments
 
-This repo contains code accompaning the paper: [Zhi Wang, Chunlin Chen, Han-Xiong Li, Daoyi Dong, and Tzyh-Jong Tarn, "Incremental reinforcement learning with prioritized sweeping for dynamic environments", *IEEE/ASME Transactions on Mechatronics*, 2019.](http://heyuanmingong.github.io/data/IRL/IRL.pdf)
-It contains code for running the incremental learning tasks with a discrete state-action space, including the simple maze and complex maze domains, as stated in the paper. Click [here](https://heyuanmingong.github.io#irl) to get more details about this work.
+This repo contains code accompaning the paper: [Zhi Wang, Chunlin Chen, Han-Xiong Li, Daoyi Dong, and Tzyh-Jong Tarn, "Incremental reinforcement learning with prioritized sweeping for dynamic environments", *IEEE/ASME Transactions on Mechatronics*, 2019.](https://heyuanmingong.github.io#irl)
+It contains code for running the incremental learning tasks with a discrete state-action space, including the simple maze and complex maze domains, as stated in the paper.
 
 ### Dependencies
 This code requires the following:
